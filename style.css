@@ -1,0 +1,15 @@
+@import url("https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1");
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+.ul_intro {
+    text-align: left;
+    margin-left: -20px;
+}
+
+.status_img {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
